@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![guigur's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![guigur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guigur)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **guigur/guigur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

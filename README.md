@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![guigur's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigur&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![guigur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guigur&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![guigur's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guigur&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![guigur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guigur&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **guigur/guigur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
